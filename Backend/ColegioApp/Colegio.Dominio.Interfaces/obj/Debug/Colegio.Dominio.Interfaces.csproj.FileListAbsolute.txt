@@ -1,0 +1,7 @@
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.Interfaces\bin\Debug\Colegio.Dominio.Interfaces.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.Interfaces\bin\Debug\Colegio.Dominio.Interfaces.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.Interfaces\bin\Debug\Colegio.Dominio.DTO.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.Interfaces\bin\Debug\Colegio.Dominio.DTO.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.Interfaces\obj\Debug\Colegio.Dominio.Interfaces.csprojResolveAssemblyReference.cache
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.Interfaces\obj\Debug\Colegio.Dominio.Interfaces.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.Interfaces\obj\Debug\Colegio.Dominio.Interfaces.pdb

@@ -1,0 +1,16 @@
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Dominio.ServiceAplication.dll.config
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Dominio.ServiceAplication.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Dominio.ServiceAplication.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Context.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Dominio.DTO.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Dominio.Interfaces.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Infraestructura.Datos.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\EntityFramework.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Context.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Dominio.DTO.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Dominio.Interfaces.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\Colegio.Infraestructura.Datos.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\bin\Debug\EntityFramework.xml
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\obj\Debug\Colegio.Dominio.ServiceAplication.csprojResolveAssemblyReference.cache
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\obj\Debug\Colegio.Dominio.ServiceAplication.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.ServiceAplication\obj\Debug\Colegio.Dominio.ServiceAplication.pdb

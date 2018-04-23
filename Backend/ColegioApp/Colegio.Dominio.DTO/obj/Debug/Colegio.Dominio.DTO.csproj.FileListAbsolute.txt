@@ -1,0 +1,7 @@
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.DTO\bin\Debug\Colegio.Dominio.DTO.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.DTO\bin\Debug\Colegio.Dominio.DTO.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.DTO\bin\Debug\EntityFramework.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.DTO\bin\Debug\EntityFramework.xml
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.DTO\obj\Debug\Colegio.Dominio.DTO.dll
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.DTO\obj\Debug\Colegio.Dominio.DTO.pdb
+D:\FREELANCE\COLEGIOAPP\Github\ColegioAPP\Backend\ColegioApp\Colegio.Dominio.DTO\obj\Debug\Colegio.Dominio.DTO.csprojResolveAssemblyReference.cache
